@@ -1,0 +1,62 @@
+/* src/App.css */
+
+body {
+  font-family: 'Arial', sans-serif;
+  background-color: #f1f1f1;
+  margin: 0;
+  padding: 0;
+}
+
+.App {
+  max-width: 800px;
+  margin: 20px auto;
+  background-color: white;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+header {
+  text-align: center;
+  background-color: #af4c7d;
+  padding: 20px;
+  border-radius: 8px;
+  color: white;
+}
+
+header h1 {
+  margin: 0;
+  font-size: 36px;
+}
+
+header h2 {
+  margin: 10px 0;
+  font-size: 20px;
+}
+
+section {
+  margin-bottom: 20px;
+}
+
+section h3 {
+  padding: 8px;
+  border-radius: 5px;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+ul li {
+  margin-bottom: 10px;
+}
+
+footer {
+  text-align: center;
+  padding: 10px;
+  background-color: #5f1550;
+  color: white;
+  margin-top: 20px;
+  border-radius: 8px;
+}
